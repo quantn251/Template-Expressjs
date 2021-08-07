@@ -4,8 +4,8 @@
     npm install
 # Setting .env:   
     change your environments in .env
-    make new file .env.production if you want to deploy and keep your environments
-# usage:
+    make new file .env.production if you want to deploy and keep your private environments
+# Usage:
     npm run dev ( use .env)
     or npm start
 # Structure:
@@ -21,7 +21,7 @@
     node-localstorage: https://www.npmjs.com/package/node-localstorage
     mongoose: https://mongoosejs.com/docs/guide.html
     mongodb: https://docs.mongodb.com/manual/ 
-# Dependency
+# Dependency: {
     Cors,
     Axios,
     dotenv,
@@ -32,3 +32,5 @@
     node-localstorage,
     mongodb,
     mongoose
+}
+    
