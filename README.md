@@ -1,4 +1,4 @@
-# Templates Expressjs
+# Template Expressjs
  This is basic templates project expressjs for backend
 # Install:
     npm install
