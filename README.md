@@ -13,7 +13,7 @@
     ./src/middleware/ -> Manager middleware
     ./src/models/ -> Manager mongoose Schema
     ./src/routers/routes -> routes API
-    ./src/ -> Manager public html
+    ./src/screens -> Manager public html
     ./scratch -> manager localstorage if you use localstorage
 # Tutorial:
     jwt: https://www.npmjs.com/package/jsonwebtoken
