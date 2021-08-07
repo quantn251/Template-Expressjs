@@ -14,7 +14,7 @@
     ./src/models/ -> Manager mongoose Schema
     ./src/routers/routes -> routes API
     ./src/ -> Manager public html
-
+    ./scratch -> manager localstorage if you use localstorage
 # Dependency
     Cors,
     Axios,
