@@ -15,7 +15,7 @@
     ./src/routers/routes -> routes API
     ./src/ -> Manager public html
     ./scratch -> manager localstorage if you use localstorage
-# Tutorial
+# Tutorial:
     jwt: https://www.npmjs.com/package/jsonwebtoken
     socket.io: https://socket.io/docs/v4
     node-localstorage: https://www.npmjs.com/package/node-localstorage
