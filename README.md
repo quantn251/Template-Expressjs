@@ -21,16 +21,18 @@
     node-localstorage: https://www.npmjs.com/package/node-localstorage
     mongoose: https://mongoosejs.com/docs/guide.html
     mongodb: https://docs.mongodb.com/manual/ 
-# Dependency: {
-    Cors,
-    Axios,
-    dotenv,
-    jsonwebtoken,
-    nodemon,
-    body-parser,
-    socket.io,
-    node-localstorage,
-    mongodb,
-    mongoose
-}
+# Dependency:
+    {
+        Cors,
+        Axios,
+        dotenv,
+        jsonwebtoken,
+        nodemon,
+        body-parser,
+        socket.io,
+        node-localstorage,
+        mongodb,
+        mongoose
+    }
+    
     
