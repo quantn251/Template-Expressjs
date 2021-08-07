@@ -6,8 +6,8 @@
     change your environments in .env
     make new file .env.production if you want to deploy your project
 # usage:
-    npm run dev ( use .env.production)
-    npm start ( use .env)
+    npm run dev ( use .env)
+    or npm start
 # Structure:
     ./src/controller/ -> Manager API
     ./src/middleware/ -> Manager middleware
