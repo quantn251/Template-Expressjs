@@ -15,6 +15,12 @@
     ./src/routers/routes -> routes API
     ./src/ -> Manager public html
     ./scratch -> manager localstorage if you use localstorage
+# Tutorial
+    jwt: https://www.npmjs.com/package/jsonwebtoken
+    socket.io: https://socket.io/docs/v4
+    node-localstorage: https://www.npmjs.com/package/node-localstorage
+    mongoose: https://mongoosejs.com/docs/guide.html
+    mongodb: https://docs.mongodb.com/manual/ 
 # Dependency
     Cors,
     Axios,
