@@ -3,4 +3,4 @@ node_modules/
 client/node_modules/
 scratch/
 
-.env
+.env.production
